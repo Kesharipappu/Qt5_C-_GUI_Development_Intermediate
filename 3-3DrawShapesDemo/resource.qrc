@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/sai baba.jpg</file>
+    </qresource>
+</RCC>
